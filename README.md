@@ -209,31 +209,5 @@ To have a more supported conclusion, OLS regression analysis was used to test th
 
 ## Conclusion
 <p style='text-align: justify;'>
-It seems like following the news is not that boring after all and people are increasingly having interest in viewing such channels. However, such trend is not fueled up with optimisitc, postive, or light news, on the contrary, the overall tone of the videos' descriptions isn't rosy at all. In such a negtaive vibe all over the place, users are going with the flow disliking everything they view. So is there a general negativity in the air we breathe or is there something else increasing the heat? What is better than looking into the most followed elections on the planet, the U.S elections, and more specifically in 2017, to answer such a question. Our analysis show that political polarization can be one of the main drivers for such emerging heat that is either to a political candidate or orientation. 
-</p>
-------------------------------------------------------------------------------------------
-
-
-
-
-
-## Mystries from the data
-
-<img width="700" src="assets/img/heat_metric_1.png">
-<img width="700" src="assets/img/avg_interactions.png">
-
-<p style='text-align: justify;'>
-There could be a few potential reasons for the sharp decrease in the ratio of dislikes to total likes and dislikes for videos in the People & Blogs category on YouTube over time.
-</p>
-
-<p style='text-align: justify;'>
-One possibility is that the quality of the content in this category is improving. As the content becomes more engaging and valuable to viewers, they may be more likely to like and less likely to dislike the videos. This could also be due to changes in the algorithms used by YouTube to recommend and promote content, which could be driving more traffic to higher-quality videos in the People & Blogs category.
-</p>
-
-<p style='text-align: justify;'>
-Another possibility is that the creators of these videos are paying more attention to their engagement metrics and adjusting their content accordingly. For example, they may be including more interactive elements or responding more actively to comments and feedback from their viewers, which could lead to increased likes and fewer dislikes.
- </p>
- 
-<p style='text-align: justify;'>
-Ultimately, it will be important to continue monitoring this trend and gathering additional data in order to fully understand the underlying causes of the sharp decrease in dislikes for videos in the People & Blogs category on YouTube.
+It seems like following the news is not that boring after all and people are increasingly having interest in viewing such channels. However, such trend is not fueled up with optimisitc, postive, or light news, on the contrary, the overall tone of the videos' descriptions isn't rosy at all. In such a negtaive vibe all over the place, users tend to be more negative in their interactions through disliking the videos. So is there a general negativity in the air we breathe or is there something else increasing the heat? What is better than looking into the most followed elections on the planet, the U.S elections, and more specifically in 2017, to answer such a question. Our analysis shows that political polarization, to a political candidate or orientation, can be one of the main drivers for such emerging heat. Moving to the opposite side of the screen, it seems like politicians and political groups are becoming more aware of how powerful YouTube can be. Interestingly, close to the elections period, Trump became a trend on YouTube compared to other figures which can be a result of many factors, a strong marketing campaign or his bold statements during interviews, but what is a fact that Trump became the US president following his YouTube dominance. As a follow up, it could be interesting to study the influence that YouTube can have on voting behaviour ...
 </p>
