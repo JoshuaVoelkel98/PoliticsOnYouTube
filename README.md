@@ -41,11 +41,7 @@ In the previous part, we have seen that the interest in political videos is grow
 </p>
 
 
-
-{% raw %}
-  $$\text{Heat} = \frac{\text{amount of dislikes}}{\text{amount of likes + amount of dislikes}}.$$
- {% endraw %}
-
+![](assets/img/equation.png){:style="display: block; margin: 0 auto" }
 
 <p style='text-align: justify;'>  
 According to our analysis of the sentiment of 74m YouTube video descriptions, it looks like it is all gloom and doom in news&politics category. In fact, when we compared the sentiment scores of videos across different categories, the news and politics category came out with the lowest scores of all.
