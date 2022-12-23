@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 background: '/img/new_wallpaper.jpg'
 ---
 
