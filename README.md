@@ -1,3 +1,8 @@
+---
+layout: default
+background: '/img/new_wallpaper.jpg'
+---
+
 
 <img width="720" src="assets/img/bg-index.jpg">
 
