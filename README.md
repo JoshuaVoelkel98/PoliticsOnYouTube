@@ -156,7 +156,7 @@ In order to understand the difference in user-behavior based on the political or
 As described before, we study and compare the quarterly growth of the published videos for the three political orientations ("left", "right" and "center") starting in the pre-election period of 2017.
 </p>
 
-<img width="700" src="assets/img/growth_published_videos.png">
+{% include QuarterlyGrowthPerc.html %}
 
 <p style='text-align: justify;'>
 We observe a growth of "right" videos in the first quarter of 2015 of roughly 40% and in the second quarter of more than 100% while the other two categories had a growth of less than 10%. Note that a growth of 100% means that the amount of released videos doubled. This shows how the amount of "right" wing videos exploded in the pre-election period of 2017. After this strong increase in 2015, we cannot observe any significant differences between the growth of the three political orientations. 
@@ -168,7 +168,7 @@ We observe a growth of "right" videos in the first quarter of 2015 of roughly 40
 Also as describe in before, we want to analyze also the the evolvement of the heat-metric during that period to assess the user engagement for the three different political categories.
 </p>
 
-<img width="700" src="assets/img/Avg_heat_metric_pol_orient.png">
+{% include QuarterlyScore.html %}
 
 <p style='text-align: justify;'>
 From the plot we can see that between 2014 and mid 2015, the average heat metric between left and right videos coincides almost perfectly. However, the average heat metric increases strongly after beginning 2016 while the heat metric of right wing videos decreased strongly. This divergence means that the amount of dislikes relative to the amount of likes + dislikes increased strongly for the left wing videos (i.e. people disagreed with the content more) while it decreased for the right wing videos, i.e. got more likes in relative terms. This is very interesting as it is well in line with the political victory of Donald Trump. It is also worth mentioning that the two graphs come together over time and are almost aligned again mid 2019. 
