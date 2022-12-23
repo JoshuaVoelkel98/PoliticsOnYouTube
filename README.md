@@ -92,8 +92,9 @@ First, we analyze the videos related to american politicians. More precisely, we
 This already shows that the amount of videos containing "Trump" in their description strongly dominates the two other politicians. However, to understand this number even better, we are interested how the releases of these videos look over time, i.e. we examine the amount of quarterly released videos over time, the monthly views of each of these categories over time and the resulting average views per video over time.
 </p>
 
-<img width="700" src="assets/img/trump_clinton_obama_videos.png">
-<img width="700" src="assets/img/trump_clinton_obama_monthly_views.png">
+{% include QuarterlyVideosByFigure.html %}
+
+{% include QuarterlyViewsByFigure.html %}
 
 <p style='text-align: justify;'>
 We can see from the first plot that there is a small increase in 2008 of released videos about Obama, which is in line with his presidency starting in 2009. While the amount of videos about Trump and Clinton were close to zero in that period, both increased starting in 2015. However, the growth of Trump videos is significantly stronger than of Clinton videos. After the election of Trump end of 2016, the amount of released Clinton videos dropped sharply. The plot of the monthly views for each of this category looks very similar and thus, 
@@ -103,13 +104,13 @@ We can see from the first plot that there is a small increase in 2008 of release
 But it's not just the quantity of videos that's interesting - the sentiment for each of these figures also showed some interesting patterns. When we plotted the sentiment scores for Trump, Obama, and Clinton on the same graph, we saw that Trump had a huge positive jump in sentiment score from the beginning of 2014 until the end of 2015, while the sentiment scores for Obama and Clinton remained relatively stable.
 </p>
 
-<img width="700" src="assets/img/sent_figures.png">
+{% include QuarterlySentByFigure.html %}
 
 <p style='text-align: justify;'>
 We can see that this increase in sentiment coincided with an increase in average views per videos as well compared to the other politicians. Which means that he was able to capture alot of good attention in this period. This shows more public interest in his videos or in other words, he was a trend in that period.
 </p>
 
-<img width="700" src="assets/img/avg_views_trump_etc.png">
+{% include QuarterlyAvgViewsByFigure.html %}
 
 <p style='text-align: justify;'>
 So what could be causing these trends?
@@ -131,7 +132,7 @@ All in all, we can conclude that videos containing "Trump" got much more coverag
 As the presidential elections draw closer, it's not uncommon to see an increase in heated discussions and polarization in the media. But what about on YouTube? To investigate this question, we used our "heat metric" - the average ratio of dislikes to total likes and dislikes for videos over time - to see if similar trends were emerging on the platform.
 </p>
 
-<img width="700" src="assets/img/heat_before_elections.png">
+{% include QuarterlyHeatByFigure.html %}
 
 <p style='text-align: justify;'>
 As the plot shows, there was a clear uptick in the heat metric around the time of the 2016 elections. In other words, there were more dislikes relative to likes and dislikes for videos featuring these figures during this period. This could be a sign of increased political polarization on YouTube, as viewers seemed to be more divided in their opinions about the candidates.
