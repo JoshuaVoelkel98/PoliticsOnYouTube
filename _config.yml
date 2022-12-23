@@ -2,6 +2,10 @@ title:              Politics on YouTube
 description:        ADA 2022 Project
 author:             Powerrangers
 
+navigation:
+  - title: Home
+    url: readme
+
 # Build settings
 #markdown:           kramdown
 #paginate:           5
