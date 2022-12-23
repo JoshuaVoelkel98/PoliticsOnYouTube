@@ -19,9 +19,9 @@ The radicalization dataset combines a total of 676 politically oriented channels
 In our first part of our analysis, we are examining the general interest in political videos on YouTube. Therefore, we focus on the three categories which potentially could include political videos, that is "News & Politics", "People & Blogs", and "Nonprofits & Activism" and plot the amount of quarterly released videos and the quartaly total views per category. One interesting finding from our analysis of YouTube videos is that the "News & Politics" category seems to be experiencing rapid growth. Specifically, the number of videos in this category appears to be increasing exponentially, and the number of views is following a similar trend. 
 </p>
 
-<img width="700" src="assets/img/number_videos_uploaded.png">
+{% include QuarterlyVideos.html %}
 
-<img width="700" src="assets/img/Interaction.png">
+{% include QuarterlyViews.html %}
 
 <p style='text-align: justify;'>  
 This suggests that there is a high level of interest in this type of content among YouTube users.
@@ -54,7 +54,7 @@ According to our analysis of the sentiment of 74m YouTube video descriptions, it
 It was also always the worst overtime.
 </p>
 
-<img width="700" src="assets/img/Sentiment_per_category_over_time.png">
+{% include QuarterlySentiment.html %}
 
 <p style='text-align: justify;'>
 And if that wasn't enough, it also had the highest Heat Metric.
@@ -66,7 +66,7 @@ And if that wasn't enough, it also had the highest Heat Metric.
 It consistently had the highest Heat overtime.
 </p>
 
-<img width="700" src="assets/img/Heat_per_category_over_time.png">
+{% include QuarterlyHeat.html %}
 
 <p style='text-align: justify;'>
 Looks like people are not too happy with current political topics and events happening around the world - It looks like it could use a little bit of good vibes!
