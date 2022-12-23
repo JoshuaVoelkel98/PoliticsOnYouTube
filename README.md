@@ -72,8 +72,8 @@ It consistently had the highest Heat overtime.
 Looks like people might not be too keen on staying up to date with current events, It looks like it could use a little bit of good vibes!
 </p>
 
-<img width="720" src="assets/img/why-so-serious-joker.gif">
 
+![why-so-serious-joker](assets/img/why-so-serious-joker.gif){:style="display: block; margin: 0 auto" }
 
 ## An Analysis of Trump, Obama, and Clinton on YouTube: Quantity, Quality, and Sentiment
 <p style='text-align: justify;'>
