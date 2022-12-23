@@ -69,7 +69,7 @@ It consistently had the highest Heat overtime.
 <img width="700" src="assets/img/Heat_per_category_over_time.png">
 
 <p style='text-align: justify;'>
-Looks like people might not be too keen on staying up to date with current events, It looks like it could use a little bit of good vibes!
+Looks like people are not too happy with current political topics and events happening around the world - It looks like it could use a little bit of good vibes!
 </p>
 
 
@@ -189,19 +189,17 @@ The most frequently used nouns in the titles for the left and right winged video
 
 <img width="350" src="assets/img/new_word_cloud_right.png"> <img width="350" src="assets/img/right_words.png">
 
-
+We can observe that many important topics intersect between the left and right wing, such as "Trump" or "Women", and we will further explore this fact in the next point. 
 
 **Sentiment comparison of relevant topics**
 <p style='text-align: justify;'>
 Digging further into the political spectrum, we put some of the buzz topics in the American society under the spot light. We want to explore the context in which such topics are addressed by the political orientations in their videos from a sentiment point of view. The graph below illustrates the discrepancy of the sentiment between the right and left wings related to controversial issues: climate change, women rights, immigrants' status, and police.
 </p>
-
 <p style='text-align: justify;'>
-It can be observed that the negative sentiment is overriding the scene regardless of the topic addressed. It also seems like the right wing is following a more negative tone than the left wing for topics related to "Russia" and "China", in comparison with "climate change", "Putin", and "Police" which has a slight difference in favor of the left wing in negativity.
+It can be observed that the negative sentiment is overriding the scene regardless of the topic addressed. It also seems like the right wing is following a more negative tone than the left wing for topics related to "Russia" and "China", in comparison with "climate change", "Putin", "Police", and "immigration" which has a slight difference in favor of the left wing in negativity.
 </p>
-
 <p style='text-align: justify;'>
-To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting "women" issues are with high statistical significance. 
+To have a more supported conclusion, OLS regression analysis was used to test the statistical significance for the sentiment disceprancies on the chosen topics between the two political groups. It was deduced that videos' descriptions targeting topics related to topics addressing "immigration", "Putin", and "Police" are with statistical significance.
 </p>
 
 <img width="700" src="assets/img/sent.jpeg">
